@@ -125,10 +125,10 @@ clear:both;
   <div id="navbar-two" class="navbar-two">
   <div class="info">
   <div class="marker">
-  <img src="http://113bar.ru/demo/wp-content/themes/twentythirteen/images/ico_phone.png">(383) 222-02-92
+  <img src="http://113bar.ru/demo/wp-content/themes/twentythirteen/images/ico_phone.png">(383) 383-02-92
   </div> 
   
-<div class="logo" style="display: inline;">  <a href="/"><img class="logo" src="http://113bar.ru/demo/wp-content/themes/twentythirteen/images/logo_new.png" width="" style="background-color: rgb(255, 51, 0);"></a></div>
+<div class="logo" style="display: inline;">  <a href="/"><img class="logo" src="http://113bar.ru/demo/wp-content/themes/twentythirteen/images/logo_new2.png" width="" style="background-color: rgb(255, 51, 0);"></a></div>
  <div class="marker">
 <img src="http://113bar.ru/demo/wp-content/themes/twentythirteen/images/ico_adress.png" style="padding-right: 10px;">Новосибирск, Романова, 28 </div>
   </div>
@@ -204,7 +204,7 @@ width: 66%;"/>-->
 
 <img src="./images/pod2.png" style="width:60%;display:block;margin:10px auto;"/>
 <p>
-*Правда есть одно условие. Нужно забронировать праздник заранее. хотя бы за пару дней. Поэтому звони 222-02-92. Или оставляй заявку на этой странице. 
+*Правда есть одно условие. Нужно забронировать праздник заранее. хотя бы за пару дней. Поэтому звони 383-02-92. Или оставляй заявку на этой странице. 
 <br/>
 **При заказе от 7 тыс. руб
 </p>     </div>
@@ -667,7 +667,7 @@ width: 66%;"/>-->
 <li><img src="./images/techicon.png"/> И, разумеется, неповторимая атмосфера</li>
 </ul>
 <p><br/>
-Если у вас есть вопросы или пожелания по организации вашего вечера, звоните по телефону 222-02-92. Решим.
+Если у вас есть вопросы или пожелания по организации вашего вечера, звоните по телефону 383-02-92. Решим.
 
 </p>
   </center>  </div>
@@ -836,10 +836,10 @@ width: 66%;"/>-->
       </div>
     <div class="span7" >
     
-    <img src="./images/logo_113.png" class="footer-logo" />
+    <img src="http://113bar.ru/demo/wp-content/uploads/2016/11/logo_113_new-e1479835439557.png" class="footer-logo" />
     <div class="foot-telblock span3"  >
     <h2 >Звоните:</h2>
-    <h2 class="tele" >(383) 222-02-92<br/></h2>
+    <h2 class="tele" >(383) 383-02-92<br/></h2>
     <h2 >ул. Романова, 28</h2>
     
     </div>

@@ -110,7 +110,7 @@ body {
 	<div id="navbar-two" class="navbar-two">
   <div class="info">
   <div class="marker">
-	<img src="http://113bar.ru/demo/wp-content/themes/twentythirteen/images/ico_phone.png">(383) 222-02-92
+	<img src="http://113bar.ru/demo/wp-content/themes/twentythirteen/images/ico_phone.png">(383) 383-02-92
 	</div> 
 	
 <div class="logo" style="display: inline;">	<a href="/"><img class="logo" src="http://113bar.ru/demo/wp-content/themes/twentythirteen/images/logo_new.png" width="" style="background-color: rgb(255, 51, 0);"></a></div>
@@ -179,7 +179,7 @@ width: 66%;"/>-->
 </p><p>
 Если вам важен ваш вечер, если вы хотите праздник, который вам запомнится, то вы оказались там, где нужно. Вы еще не знакомы с нашим баром? Ниже вы можете узнать о нем немного больше.
 </p><p>
-Если вы уже и так поняли, что нам по пути, то звоните по телефону 222-02-92, и я лично прослежу за организацией вашего вечера. Не были у нас раньше? Тогда нам ничто не мешает познакомиться. Приходите, с меня кофе… или чего поинтереснее, все зависит от настроения.
+Если вы уже и так поняли, что нам по пути, то звоните по телефону 383-02-92, и я лично прослежу за организацией вашего вечера. Не были у нас раньше? Тогда нам ничто не мешает познакомиться. Приходите, с меня кофе… или чего поинтереснее, все зависит от настроения.
 </p>	   </div>
             </div>
 			  <div class="span4" style='margin-bottom:40px;overflow:hidden;margin-top:40px;'>
@@ -642,7 +642,7 @@ width: 66%;"/>-->
 <li><img src="./images/techicon.png"/> И, разумеется, неповторимая атмосфера</li>
 </ul>
 <p><br/>
-Если у вас есть вопросы или пожелания по организации вашего вечера, звоните по телефону 222-02-92. Решим.
+Если у вас есть вопросы или пожелания по организации вашего вечера, звоните по телефону 383-02-92. Решим.
 
 </p>
 	</center>	</div>
@@ -811,10 +811,10 @@ width: 66%;"/>-->
       </div>
 	  <div class="span7" >
 	  
-	  <img src="./images/logo_113.png" class="footer-logo" />
+	  <img src="http://113bar.ru/demo/wp-content/uploads/2016/11/logo_113_new-e1479835439557.png" class="footer-logo" />
 		<div class="foot-telblock span3"  >
 	  <h2 >Звоните:</h2>
-	  <h2 class="tele" >(383) 222-02-92<br/></h2>
+	  <h2 class="tele" >(383) 383-02-92<br/></h2>
 	  <h2 >ул. Романова, 28</h2>
 	  
 	  </div>
