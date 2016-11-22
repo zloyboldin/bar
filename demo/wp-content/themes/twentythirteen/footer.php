@@ -56,6 +56,7 @@
                         $vk_wall_photo = $response->items[0]->attachments[0]->photo->photo_604;
                     }
                     $vk_wall_text = cropStr($response->items[0]->text, 80);
+                    if (strlen($response->items[0]->text) > 0) {
                 ?>
                 <div class="advps-slide vk"
                      style="width: 250px; height: 250px; border-radius: 250px; top: 0px; position: absolute; left: 0px; display: block; z-index: 11; opacity: 1; background: url(<?php echo $vk_wall_photo?>) 50% 50% / cover;">
@@ -78,7 +79,10 @@
                         </div>
                     </div>
                 </div>
-                <?php } ?>
+                <?php
+                    }
+                }
+                ?>
                 <div class="advps-slide new-year"
                      style="width: 250px; height: 250px; border-radius: 250px; top: 0px; position: absolute; left: 0px; display: block; z-index: 11; opacity: 1; background: url('https://pp.vk.me/c637426/v637426799/1e7e8/WfudlDvuiNM.jpg') 50% 50% / cover;">
                     <div id="snow" class="snow"></div>
@@ -97,7 +101,7 @@
                             <h2 class="advs-title"
                                 style="font-size:22px !important;margin:5px 0px 10px 0px !important;color:#FFFFFF"><a
                                     href="<?php echo get_permalink()?>newyear/"
-                                    style="color:#FFFFFF">Новый год со 113</a></h2>
+                                    style="color:#FFFFFF">Новогодние корпоративы</a></h2>
                         </div>
                     </div>
                 </div>
@@ -105,8 +109,8 @@
             <div class="slider-footer">
                 <?php echo do_shortcode( '[advps-slideshow optset="4"]' ); ?>
                 <script>
-                    jQuery('.slider-footer .advps-slide-container >:first-child ').prepend(jQuery('.hidden-post > .advps-slide.new-year'));
                     jQuery('.slider-footer .advps-slide-container >:first-child ').prepend(jQuery('.hidden-post > .advps-slide.vk'));
+                    jQuery('.slider-footer .advps-slide-container >:first-child ').prepend(jQuery('.hidden-post > .advps-slide.new-year'));
                     snow(1);
                 </script>
             </div>
