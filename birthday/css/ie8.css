@@ -1,0 +1,36 @@
+#top,.fixed {
+	background-color:transparent;
+	background-image:url(../images/ie8-transp.png)
+}
+header {
+	min-height: 800px;
+	background:url(../images/stillframe.jpg) no-repeat top center
+}
+
+.gmap {
+	width: 420px
+}
+
+.portfolio-item {
+	width: 280px
+}
+
+span.over {
+	height: 200px;
+	width: 280px;
+	background-color:transparent;
+	background-image:url(../images/ie8-transp.png)
+}
+
+.zoom-icon {
+  top:22%;
+  left:28%
+}
+
+#main-menu {
+	margin: 50px 0 0 50px
+}
+
+#teaser {
+	left: 25%
+}

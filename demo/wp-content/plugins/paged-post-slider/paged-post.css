@@ -1,0 +1,67 @@
+.load{
+	background: rgba(0,0,0,0.8);
+}	
+
+.pagination-slider .pps-the-content{
+		margin-bottom:.813em 0;
+		}
+
+	.pps-slider-nav{
+background: rgba(0,0,0,0.4);
+		border-bottom:1px solid #ccc;
+		border-top:1px solid #ccc;	
+		font-size:1.1em;
+		font-weight:bold;
+		margin:1em 0;
+		min-height:2.5em;
+		text-transform:uppercase;
+		padding:.75em 0;
+		position:relative;
+		margin-top: 0 !important;
+		}
+
+		.pps-slide-count{
+			display:block;
+			text-align:center;
+			text-transform:none;
+			text-transform:uppercase;	
+			}
+
+		.pps-slider-nav .pps-next{
+			padding-right:.2em;
+			position:absolute;
+			right:0;
+			}
+
+		.pps-slider-nav .pps-prev{
+			left:0;
+			padding-left:.2em;
+			position:absolute;
+			}
+
+	.pps-slider-nav-bottom{
+		margin-top:2.45em;
+		text-align:left;
+		}
+
+	.pps-slider-nav-bottom.first-slide{
+	text-align:right;
+	}
+
+	.pps-slider-nav-bottom.first-slide .pps-next{
+		position:relative;
+		}
+	
+	.pps-slider-nav-bottom .pps-prev{
+		position:relative;
+		}
+
+/* new clearfix */
+.pps-clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+	}

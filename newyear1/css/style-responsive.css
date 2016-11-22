@@ -1,0 +1,669 @@
+/* iPhone (portrait) */
+
+
+@media (max-width: 767px) {
+.menu-mobile .sub-menu{
+display:none !important;
+}
+.main-menu {
+display:none;
+
+}
+.last-form { width: 100%;margin-left: 0};
+
+.marker:first-child {
+margin-left:0px;top:191px;
+}
+.marker:first-child img {
+padding: 0 10px 0 0px;
+}
+	body {
+		padding:0;
+		width: 100%;
+	}
+	.navbar-two .info{ 
+	margin-left:0;
+	
+	}
+	.last-form {
+	
+	text-align:center;
+	}
+	.last-form input[type=text]{ 
+	width: 49.7%;
+	display:inline-block;
+	
+	}
+	.footer-logo {
+	padding-right:25px;
+	
+	}
+	.copyright {
+	
+	text-align:center !important;
+	}
+	#video { 
+	padding:0;
+	
+	}
+	footer .foot-telblock {
+	position:absolute;left:0;
+
+}
+	#video img{ 
+	width:100%;top:0;
+	
+	}
+	#teaser .span6{
+	text-align:center}
+	#about .span7{
+	
+	padding:0 15px !important;}
+	header {text-align:center}
+	#tagline h2 {
+		line-height: 35px;
+		margin-top: 15px
+	}
+	a.tagline-btn {
+		margin-bottom: 25px;
+		margin-top: 25px
+	}
+	footer{
+	padding-bottom: 40px;
+background-size: cover;
+}
+	.fixed #logo {
+		float: none;
+		width: 50%;
+		margin-left: 25%
+	}
+	#portfolio-gallery {
+		margin-left: 0
+	}
+	.portfolio-item,.portfolio-item img {
+		width: 320px
+	}
+	footer .foot-telblock
+	{
+	padding-top:20px;
+	}
+	footer .foot-telblock h2
+{padding-left: 20px;
+margin-bottom:7px;
+
+}
+	#teaser .box-btn{
+	font-size:16px !important;line-height:20px;
+	margin-top:60px;
+	}
+    .inner {
+      text-align: left;
+    }
+	.icons li{ clear:none;margin:8px 0;
+	width:50% !important;float:left;}
+	.gmap {
+		width: 291px;
+		border: 5px solid #ccc;
+		margin: 0 auto;
+	}
+	footer p {
+		text-align: center
+	}
+	.fixed {
+		display:none!important
+	}
+	.single .fixed,.archive .fixed,.category .fixed {
+		display:block!important;
+        height: 100%;
+	}
+	header .tele font{
+	font-size:16px !important;display:block;
+	}
+	header .tele {
+		padding-right:20px;line-height:23px !important;font-size:21px !important;
+	}
+	.black-iphone,.white-iphone {
+		width: 332px;
+		margin-left: -12px
+	}
+	
+.navbar {
+margin-bottom:0;
+}
+	.baradress{position: absolute;
+left: 10px;
+top: 20px;
+font-size: 13px;}
+	.header-text{display:none;}
+	.inner{padding:15px 20px}
+	#footer-navigation {
+		margin: 0;
+		padding: 0;
+		float: none;
+		width: 100%;
+		display: block
+	}
+	.nav-menu { margin-left:0 ;}
+	.targ_link { 
+	font-size: 34px;
+color: white;
+line-height: 39px;
+	
+	}
+	.menu-mobile{
+	text-align: center;
+	position:relative;
+	z-index:999;
+margin: 5px 0 15px 5%;
+display: block;
+float: left;
+	}
+	#navbar {
+	position:relative;z-index:9999;
+	
+	}
+	.menu-mobile .nav-menu {min-width:165px;
+	display:none;background:black;text-align:left;
+	position:absolute;padding:10px 1px;z-index:9999;
+	}
+	.menu-mobile .nav-menu  li {padding:0 10px;
+	display:block;margin:5px 0px;
+	}
+	.menu-mobile .nav-menu li a {
+	
+	padding:5px 5%;
+	}
+	#home{
+	min-height:710px;
+	}
+	.nav-menu {
+	left:0;
+	}
+	.menu-mobile .nav-menu  li a:hover {text-decoration:underline;}
+	.prize-box img{ 
+position:absolute;left:4px;top:23%;width:27%; 
+
+}
+#home {min-height:835px;}
+	.logo{width: 234px;top:-7px;
+display: block !important;
+margin: 0 auto;}
+	.icons ul{width:100%;
+	margin-bottom:10px;font-size:15px;
+	
+	}
+	#footer-navigation div{
+	
+	text-align:center;}
+	#afterc {
+position: relative;
+top: 0px !important;
+right: 30px;
+}
+	.copyright {
+		float: none;text-align:left;
+		margin-bottom: 15px
+	}
+	.portfolio-item a {
+		pointer-events:none
+	}
+	.smallsize{
+	
+	padding:10px 20px;}
+	h5 {
+font-size: 18px !important;
+line-height: 23px !important;}
+	.over {display:none;}
+	header {
+		
+	}
+	.volk{
+	margin-left: 17.5% !important;
+	}
+	.custom-section h3{
+	font-size:37px !important;line-height:37px !important;}
+	.last-form{
+
+width: 100% !important;margin-left: 0% !important;
+}
+    #top {
+      padding-top: 0;
+      position: absolute;
+    }
+    #content {
+      margin-top: 245px;
+    }
+	#main-menu {
+		margin: 50px 0 0 0px;
+		padding: 0
+	}
+	.single #main-menu-select, .archive #main-menu-select, .category #main-menu-select {
+		margin: 0 auto;
+		padding: 0;
+		float: none;
+	}
+	.single header, .archive header, .category header {
+		min-height: 27px
+	}
+	a.tagline-btn {margin-left: 0}
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	  .single .fixed,.archive .fixed,.category .fixed {
+	   margin-top: 0
+	  }
+	}
+	#comment-area {
+		margin: 0 0 10px -44px;
+		width: 250px
+	}
+	#commentform input,#commentform textarea {
+		width: 240px
+	}
+	.social-share ul li {
+		float: left;
+		margin: 0 0 12px 0;
+		padding: 0;
+		min-width: 10%;
+		max-width: 200px;
+		width: 100%
+	}
+	#teaser h2{
+	font-size: 48px !important;
+	margin-top:59px !important;
+line-height: 48px !important;
+}
+	.mainbg{
+	
+max-width: none !important;
+width: auto !important;
+margin-left: -198px;
+	}
+	#full-slider.flexslider .flex-caption,#full-slider.flexslider .flex-direction-nav, #full-slider.flexslider .flex-control-nav {
+		display:none
+	}
+	.fullwidth-slider #logo  {
+		width: 50%;
+		margin-left: 26%
+	}
+	.fullwidth-slider #main-menu-select {
+		margin-top: -23px
+	}
+	.fullwidth-slider #top {
+		z-index: 1;
+		min-height:160px
+	}
+	.box {
+		margin-top: 5px;
+		width: 95%;
+		display: block;
+		float: left;
+		margin-left: 11px
+	}
+	.header .tele{font-size:23px !important;}
+
+}
+
+/* iPhone (landscape) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.marker {
+
+}  
+.marker:first-child{ 
+margin-left: 0;
+left: -50%;
+top: 65px;
+margin-right: -170px;
+}
+.marker:last-child {
+left: 50%;
+top: -65px;
+margin-left: -235px;
+width: 24%;
+white-space: normal;
+display: inline-block;
+text-align: right;
+}
+.baradress{
+max-width:170px;text-align:left;font-size:17px;
+white-space:normal;
+}
+.baradress img{float:left;position:relative;top:6px;
+padding:0 10px 20px 0 !important;
+}
+
+footer .foot-telblock {
+
+
+}
+
+	body {
+		padding:0;
+		/*width:480px;*/
+        width: 100%;
+	}
+	#video img{ 
+	height:100%;top:0;
+	
+	}
+	.portfolio-item, .portfolio-item img {
+		width: 100%;
+	}
+	.black-iphone, .white-iphone {
+		margin-left: 70px;
+		width:344px
+	}
+	.gmap {
+		width: 450px
+	}
+    #top {
+      padding-top: 0;
+      position: absolute;
+    }
+    #content {:
+      margin-top: 245px;
+    }
+	.single #main-menu-select, .archive #main-menu-select, .category #main-menu-select {
+		margin: 0 auto;
+		padding: 0;
+		float: none;
+	}
+	.single header, .archive header, .category header {
+		min-height: 10px
+	}
+	
+	.content-logo {margin-left: 32px}
+	.fixed #main-menu {
+		margin-left: 0
+	}
+	#main-menu {margin: 50px 0 0 0px}
+	.fixed #logo {
+		float: none;
+		width: 25%;
+		margin-left: 37%
+	}
+	
+	#comment-area {
+		margin: 0 0 10px 0;
+		width: 325px
+	}
+	#commentform input, #commentform textarea {
+		width: 304px
+	}
+	#full-slider.flexslider .flex-caption,#full-slider.flexslider .flex-direction-nav, #full-slider.flexslider .flex-control-nav {
+		display:none
+	}
+	
+	.box {
+		margin-top: 5px;
+		width: 84%;
+		display: block;
+		float: left;
+		margin-left: 44px
+	}
+
+}
+
+/* iPad (portrait) */
+@media (min-width: 768px) and (max-width: 979px) {.
+.tele{}
+.baradress img{
+padding-left:55px !important;}
+#teaser .box-btn{display:none !important;}
+.baradress{top:53px !important;}
+header .tele font{
+display:block;
+	}
+	#sticky h3{
+	font-size:15px;line-height:22px;}
+	header {
+		
+	}
+    .fixed #main-menu {
+      float: right;
+    }
+	.single #main-menu-select, .archive #main-menu-select, .category #main-menu-select {
+		margin: 0 5px 0 0;
+		padding: 0;
+		float: left
+	}
+	.single header, .archive header, .category header {
+		min-height: 10px;
+		background:transparent
+	}
+	.single .fixed, .archive .fixed, .category .fixed {
+		margin-top: 0;
+		display: block!important;
+	}
+	#searchform2 input {
+		width: 142px;
+	}
+	body {
+		padding:0;
+		/*width:768px;*/
+	}
+	header {text-align:center}
+	#filters li {margin: 0 30px 0 0}
+	.content-box {
+		text-align: center;
+		width: 47%;
+		margin-bottom:15px
+	}
+	
+	#tagline h2 {
+		line-height: 35px;
+		margin-top: 15px
+	}
+	a.tagline-btn {
+		margin-bottom: 25px;
+		margin-top: 25px
+	}
+	.fixed  {
+		display:none!important;
+	}
+	#portfolio-gallery {
+		margin-left: 42px
+	}
+	.portfolio-item,.portfolio-item img {
+		width: 320px
+	}
+	.gmap {
+		width: 291px;
+		border: 5px solid #ccc;
+		margin-left: -50px;
+		margin-top: -50px
+	}
+	footer p {
+		text-align: center
+	}
+	.fixed {
+		padding: 0
+	}
+	.black-iphone,.white-iphone {
+		width: 344px;
+		margin-left: 190px
+	}
+	#footer-navigation {
+		margin: 0;
+		padding: 0;
+		float: none;
+		width: 100%;
+		display: block
+	}
+	.copyright {
+		float: none;text-align:left;
+		margin-bottom: 15px
+	}
+	#footer-navigation {margin: 0 0 0 0}
+	.portfolio-item a {
+		/*pointer-events:none*/
+	}
+	a.tagline-btn {margin-left: 0}
+	#main-menu {
+		margin: 50px 0 0 0;
+	}
+	span.over {
+		height: 230px;
+		width: 320px
+	}
+	.zoom-icon {top: 25%;left: 31%}
+	.align-right {margin-top: 88px}
+	.fullwidth-slider header {
+		
+	}
+	.flex-caption {
+		display:none
+	}
+	#full-slider.flexslider .flex-control-nav {
+		bottom: 3%;
+		left: 44%
+	}
+	#full-slider.flexslider .flex-direction-nav a {top: 73%}
+	.link-icon {top: 48%;left: 42%}
+	.zoom-icon {left: 42%}
+	.box {
+		width: 95%
+	}
+}
+@media (max-width:480px){
+
+.last-form input[type=text]{
+width:100%;
+
+}
+.footer-logo {float:none !important;padding-right:0 !important;position:relative !important;}
+.foot-telblock {
+position:relative !important;float:none;
+
+}
+.prize-box {
+
+position:relative;
+display: block;
+margin-left: 0px;margin-top:20px;width:100%;
+padding:27px 0px 10px 0px;margin-bottom:20px;
+
+}
+
+.marker:first-child { 
+top:90px;
+left: -50%;
+margin-right: -125px;
+}
+.marker:last-child {
+left: 80%;
+top: -35px;
+margin-left: -55px;
+display: block;
+width: 110px;
+white-space: normal;
+text-align: right;
+
+}
+.prize-box {
+margin-top:300px !important;
+}
+.icons li{
+	width:100% !important;float:left;}
+
+.navbar-two .info .logo img{
+padding-bottom: 1px;
+margin-top: -133px !important;
+border-radius: 129px !important;
+}
+#teaser h2{ margin-top:65px !important;}
+header .tele font{display:none;}
+header .tele{
+width: 100%;
+text-align: center !important;
+padding: 0;
+position: absolute !important;
+top: 150px;
+margin-left: 0 !important;
+font-size: 24px !important;
+}
+.baradress{
+width: 100%;
+left: 0 !important;
+top: 89px !important;
+max-width: 114px !important;
+white-space: normal;
+margin: 0 auto;
+left: 50% !important;
+margin-left: -57px !important;
+}
+.baradress img {
+padding-left: 0 !important;
+float: left;
+padding-right: 0 !important;}
+
+
+
+#teaser .box-btn{
+display:none;}
+.footer-logo{
+
+float: right;
+width: 60%;
+margin: 0% 23% 0% 17%;
+}
+.foot-telblock {text-align:center;padding-left:0 !important;}
+.foot-telblock h2{
+font-size:24px !important;line-height: 24px !important;
+margin-bottom:0 !important;
+}
+.foot-telblock h2.tele{margin-bottom:12px !important;
+font-size:26px !important;line-height: 26px !important;
+}
+}
+/* iPad (landscape) */
+@media (min-width: 979px) and (max-width: 1025px) {
+	header {
+		min-height:600px;
+		background:url(../images/stillframe.jpg) no-repeat top center
+	}
+	.supervideo {display:none!important}
+	span.over {
+		height: 302px;
+		width: 420px
+	}
+	.single	header {
+	  max-height:auto;
+	  height:auto;
+	}
+		.single #main-menu-select, .archive #main-menu-select, .category #main-menu-select {
+		margin: 0 5px 0 0;
+		padding: 0;
+		float: left
+	}
+	.single header, .archive header, .category header {
+		min-height: 10px;
+		background:transparent
+	}
+	.single .fixed, .archive .fixed, .category .fixed {
+		margin-top: 0;
+		display: block!important;
+	}
+
+	.portfolio-item, .portfolio-item img, .gmap {
+		width: 420px
+	}
+	#teaser .box-btn{margin-top:55px;}
+	.align-right {margin-top: 88px}
+
+	.flex-caption {left: 50%;top: 51.5%;margin-left: -240px;}
+	#full-slider.flexslider .flex-control-nav {bottom: 0}
+	#full-slider.flexslider .flex-direction-nav a {top: 70%}
+	.fullwidth-slider header {min-height: 576px}
+	.custom-section h3 {margin-top: 11px}
+}
+
+/* desktop (1025 to 1200) */
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+footer .foot-telblock h2{
+margin-bottom:10px;font-size:14.5px;
+
+}
+.inner{padding:35px 45px !important;}
+	#teaser {top: 30%; width: 100%;}
+	.gmap {width: 423px}
+}
